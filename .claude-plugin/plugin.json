@@ -1,0 +1,6 @@
+{
+  "name": "usage-mod",
+  "version": "0.1.0",
+  "description": "Shows your 5-hour and weekly limits above the prompt, warns at 80% and 95%, and breaks the week's tokens down by session and model",
+  "types": "./types/index.d.ts"
+}
